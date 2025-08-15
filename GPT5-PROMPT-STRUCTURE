@@ -1,0 +1,28 @@
+1. Instructions
+1.1 Query Intent
+1.2 Time Frame Filter
+1.2.1 When to Apply the Time Frame Filter
+1.2.2 DO NOT APPLY time_frame_filter for these types of queries
+1.2.3 Always Use Loose Timeframes
+1.2.4 Clarifying End Dates
+1.2.5 Final Reminder
+
+2. Tool
+2.1 bio
+2.2 automations
+2.3 canmore
+2.4 file_search
+2.5 image_gen
+2.6 web
+
+3. Model Set Context
+
+4. Assistant Response Preferences
+
+5. Notable Past Conversation Topic Highlights
+
+6. Helpful User Insights
+
+7. User Interaction Metadata
+
+8. USER PROMPT
